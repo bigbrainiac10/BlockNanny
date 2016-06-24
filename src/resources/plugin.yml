@@ -1,0 +1,5 @@
+name: ${project.name}
+main: com.bigbrainiac10.blocknanny.BlockNanny
+version: ${project.version}
+author: bigbrainiac10
+description: Allow operators to place limits on the amount of blocks placed of a certain type per person.
