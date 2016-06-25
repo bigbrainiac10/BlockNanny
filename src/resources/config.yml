@@ -1,0 +1,11 @@
+debug: true
+db:
+ user: "root"
+ pass: "root"
+ hostname: "localhost"
+ dbname: "blocknanny"
+ port: 3306
+limits:
+ HOPPER: 1
+ CACTUS: 3
+ BED: 5
