@@ -5,7 +5,9 @@ db:
  hostname: "localhost"
  dbname: "blocknanny"
  port: 3306
+msgs:
+ placesleft: "&9You can place %BLOCK% %PLACESLEFT% more times."
+ nomore: "&cYou cannot place anymore %BLOCK%s"
 limits:
- HOPPER: 1
- CACTUS: 3
- BED: 5
+ HOPPER: 10
+ 
